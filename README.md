@@ -58,7 +58,7 @@ python main.py
 - Always keep your password database (`db/`) secure and private.
 
 ## 📜 License
-This project is open-source and available under the [MIT License](LICENSE).
+This project is open-source and available under the MIT License.
 
 ## 🤝 Contributing
 Feel free to submit issues or pull requests to enhance this project.
