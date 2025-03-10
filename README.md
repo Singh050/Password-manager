@@ -11,7 +11,7 @@ A secure and simple password manager built with Python. This application encrypt
 
 ## 🛠️ Installation
 ### Prerequisites
-- Python 3.6+
+- Python 3.11+
 - Pip package manager
 
 ### Install Dependencies
