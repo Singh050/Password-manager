@@ -1,9 +1,6 @@
 # Python Password Manager
 >Note: This password manager was made as a project and is NOT intended for actual use. Please use more sophisticated and well-tested/trusted password managers to store sensitive data.
 
-## Demo
-
-[![asciicast](https://asciinema.org/a/tEGTsXmEMJALLhuYljnRWf8Oh.svg)](https://asciinema.org/a/tEGTsXmEMJALLhuYljnRWf8Oh)
 
 ## AES Encryption
 
